@@ -1,31 +1,31 @@
-Sorteador de Amigos
+#Sorteador de Amigos
 
 Este é um simples sorteador de amigos feito com HTML, CSS e JavaScript. Ele permite adicionar nomes a uma lista e sortear aleatoriamente um dos participantes.
 
-🚀 Funcionalidades
+🚀 #Funcionalidades
 
-Adicionar amigos a uma lista
+- Adicionar amigos a uma lista
 
-Exibir a lista de amigos cadastrados
+- Exibir a lista de amigos cadastrados
 
-Sortear um amigo aleatoriamente
+- Sortear um amigo aleatoriamente
 
-Exibir o nome sorteado na tela
+- Exibir o nome sorteado na tela
 
-📜 Como Usar
+📜 #Como Usar
 
-Digite um nome no campo de entrada.
+- Digite um nome no campo de entrada.
 
-Clique no botão "Adicionar" para incluir o amigo na lista.
+- Clique no botão "Adicionar" para incluir o amigo na lista.
 
-Após adicionar todos os amigos desejados, clique no botão "Sortear Amigo".
+- Após adicionar todos os amigos desejados, clique no botão "Sortear Amigo".
 
-O nome do amigo sorteado será exibido na tela.
+- O nome do amigo sorteado será exibido na tela.
 
-🛠 Tecnologias Utilizadas
+🛠 #Tecnologias Utilizadas
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-JavaScript
+- JavaScript
